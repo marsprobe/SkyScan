@@ -1,3 +1,5 @@
+# HI. Could you contact me at farzad.panahi@gmail.com ? This is regarding your https://github.com/edgepi organization. We have a project with the same name "edgepi". I was wondering if you could rename your org name to make it available for us.  Thanks :)
+
 # SkyScan
 Automatically photograph planes that fly by!
 
